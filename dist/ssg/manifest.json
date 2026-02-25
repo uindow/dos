@@ -1,7 +1,7 @@
 {
     "name": "Draw on Screen",
     "short_name": "Draw on Screen",
-    "description": "Screen drawing for content creators (v.0.0.21)",
+    "description": "Screen drawing for content creators (v.0.0.22)",
     "id": "/",
     "start_url": "/",
     "display": "minimal-ui",
