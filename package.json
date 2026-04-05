@@ -1,6 +1,6 @@
 {
     "name": "drawonscreen",
-    "version": "0.0.32",
+    "version": "0.0.33",
     "description": "Screen drawing for content creators",
     "author": "Draw on Screen (https://drawonscreen.com)",
     "license": "Oglama-1.0",
@@ -89,7 +89,7 @@
         "asar": "3.2.0",
         "cross-spawn": "7.0.6",
         "electron-builder": "26.7.0",
-        "electron": "38.1.0",
+        "electron": "39.8.6",
         "eslint": "8.57.1",
         "eslint-config-google": "0.14.0",
         "eslint-config-prettier": "8.10.0",
